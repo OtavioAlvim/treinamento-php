@@ -19,7 +19,7 @@
     teste();
     echo "O valor de X fora $$x";
 
-
+ 
 ?>
 
 
