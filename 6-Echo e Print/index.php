@@ -8,6 +8,8 @@
     //CASO SEJA USADO ASPAS SIMPLES NO ECHO, ELE VAI CONCATENAR AS VARIAVEIS
     //O PONTO NO PHP SERVE COMO CONCATENAÇÃO DE VALORES ATRIBUIDOS A UMA VARIAVEL
     //EXEMPLO
-    echo 'O nome de usuário é' .$nome.$sobrenome;
+    echo 'O nome de usuário é ' .$nome.' '.$sobrenome;
+    // O PRINT É A MESMA COISA QUE O ECHO, POREM NA PRATICA, ELE É BEM MAIS LENTO 
+    //SINTAXE DO PRINT
+    //print $nome;
 ?>
-minuto 3:43
